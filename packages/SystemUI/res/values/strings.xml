@@ -2585,6 +2585,7 @@
     =1 {# notification}
     other {# notifications}
     }</string>
+
     <!-- Accessibility label for weather complication on dreams with weather condition and temperature [CHAR_LIMIT=200] -->
     <string name="dream_overlay_weather_complication_desc">
         <xliff:g id="weather_condition" example="Partly cloudy">%1$s</xliff:g>, <xliff:g id="temperature" example="7°C">%2$s</xliff:g>
@@ -2611,4 +2612,12 @@
 
     <!-- Time format for the Dream Time Complication for 24-hour time format [CHAR LIMIT=NONE] -->
     <string name="dream_time_complication_24_hr_time_format">kk:mm</string>
+
+    <!-- Power Menu -->
+    <string name="global_action_reboot">Restart</string>
+    <string name="global_action_reboot_more">Restart\u2026</string>
+    <string name="global_action_reboot_sub">System</string>
+    <string name="global_action_reboot_recovery">Recovery</string>
+    <string name="global_action_reboot_bootloader">Bootloader</string>
+    <string name="global_action_settings">Settings</string>
 </resources>
