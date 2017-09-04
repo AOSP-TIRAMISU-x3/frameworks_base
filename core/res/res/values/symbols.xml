@@ -4886,4 +4886,6 @@
   <java-symbol type="string" name="config_stockFingerprint" />
   <java-symbol type="bool" name="config_spoofGoogleApps" />
 
+  <!-- Battery Leds -->
+  <java-symbol type="bool" name="config_intrusiveBatteryLed" />
 </resources>
