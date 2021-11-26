@@ -5934,4 +5934,7 @@
          TODO(b/236022708) Move rear display state to device state config file
     -->
     <integer name="config_deviceStateRearDisplay">-1</integer>
+
+    <!-- Whether to cleanup fingerprints upon connection to the daemon and when user switches -->
+    <bool name="config_cleanupUnusedFingerprints">true</bool>
 </resources>
